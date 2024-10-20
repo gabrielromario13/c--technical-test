@@ -1,0 +1,14 @@
+C:\GithubProjects\TechnicalTest\TechnicalTest\bin\Debug\net8.0\TechnicalTest.exe
+C:\GithubProjects\TechnicalTest\TechnicalTest\bin\Debug\net8.0\TechnicalTest.deps.json
+C:\GithubProjects\TechnicalTest\TechnicalTest\bin\Debug\net8.0\TechnicalTest.runtimeconfig.json
+C:\GithubProjects\TechnicalTest\TechnicalTest\bin\Debug\net8.0\TechnicalTest.dll
+C:\GithubProjects\TechnicalTest\TechnicalTest\bin\Debug\net8.0\TechnicalTest.pdb
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.AssemblyInfoInputs.cache
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.AssemblyInfo.cs
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.csproj.CoreCompileInputs.cache
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.dll
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\refint\TechnicalTest.dll
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.pdb
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\TechnicalTest.genruntimeconfig.cache
+C:\GithubProjects\TechnicalTest\TechnicalTest\obj\Debug\net8.0\ref\TechnicalTest.dll
